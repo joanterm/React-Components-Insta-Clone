@@ -8,6 +8,7 @@ import "./SearchBar.css";
 const SearchBar = (props) => {
   return (
     <div className="search-bar-wrapper">
+      <h1>SEARCH BAR</h1>
       <div className="social">
         <FontAwesomeIcon icon={faInstagram} />
       </div>

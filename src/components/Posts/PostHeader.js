@@ -15,6 +15,7 @@ const PostHeader = props => {
         />
       </div>
       <h2>{username}</h2>
+      <h1>POST HEADER</h1>
     </div>
   );
 };
